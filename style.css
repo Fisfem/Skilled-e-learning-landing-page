@@ -1,0 +1,195 @@
+*
+{
+  background-color: #F8F8FF;
+  margin-left: 40px;
+  
+}
+
+.header
+{
+  min-height: 150px;
+  
+}
+
+.topper_skilled
+{
+  float: left;
+}
+
+.topper_button
+{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 2px;
+  margin-left: 700px;
+}
+
+.layer1
+{
+  margin-bottom: -00px;
+  
+}
+
+
+.layer1_left
+{
+ 
+ float: left;
+ margin-left: 100px;
+ width: 250px;
+}
+
+
+.layer1Left_started
+{
+  background: linear-gradient(#FF684C, #F33695);
+  border-radius: 10px;
+  padding: 5px; 
+}
+
+.layer1_right
+{
+  margin-left: 700px;
+  position: relative;
+   
+}
+
+
+
+.layer1_img
+{
+  background-color: #F33695;
+  border-radius: 50px;
+  width: 250px;
+  margin-bottom: 00px;
+ 
+ 
+  
+}
+.member
+{
+ margin-left: 120px;
+ padding-top: 20px;
+ position: absolute;
+ box-sizing: border-box;
+ border-radius: 10px;
+ border: none;
+}
+.course
+{
+  margin-left: 0px;
+  padding-top: 100px;
+  position: absolute;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: none;
+padding: -500px;
+ }
+
+#layer2
+{
+  margin-top: -100px;
+}
+
+.layer2_pack1
+{
+  background-color: #F33695;
+  min-height: 150px;
+  float: left;
+  text-align: center;
+}
+
+.layer2_pack2
+{
+  background-color: white;
+  background-position: 20px;
+  margin-right: 700px;
+  float: right;
+  width: 300px;
+
+  
+}
+
+.layer2_pack3
+{
+  background-color: white;
+  margin-right: 300px;
+  margin-top: -150px;
+  float: right;
+  width: 300px;
+  
+  
+  
+}
+
+#layer3
+{
+  margin-top: 200px;
+}
+
+.layer3_pack1
+{
+  background-color: white;
+  min-height: 150px;
+  float: left;
+  width: 300px;
+  margin-top: 100px;
+}
+
+
+.layer3_pack2
+{
+  background-color: white;
+  margin-right: 600px;
+  float: right;
+  width: 300px;
+  padding-right: 00px;
+  margin-top: 70px;
+
+}
+
+.layer3_pack3
+{
+  
+  margin-right: 300px;
+  margin-top: -150px;
+  float: right;
+  width: 300px;
+  background-color: white;
+  
+}
+
+#layer4
+{
+  background-color: darkblue;
+  margin-top: 650px;
+  position: absolute;
+  min-height: 50px;
+  align-items: center;
+  width: 1000px;
+}
+
+.layer4_pack1
+{
+ float: left;
+  margin-top: 20px;
+}
+  
+.layer4_pack2
+{
+  background: linear-gradient(#FF684C, #F33695);
+  margin-right: 80px;
+  float: right;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 2px;
+  margin-left: 700px;  
+}
+
+
+
+.pinker
+{
+  color: #F33695;
+}
